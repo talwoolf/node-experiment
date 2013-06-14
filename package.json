@@ -1,0 +1,13 @@
+{
+	"name" : "Node-Connect",
+	"version" : "0.0.1",
+	"description" : "node test connection",
+	"private" : "true",
+	"dependencies" : {
+		"socket.io" : "~0.9.16", 
+		"connect" : "~2.7.11",
+		"express" : "~3.2.6",
+		"mime" : "~1.2.7",
+		"jade" : "~0.31.2"
+	}
+}
